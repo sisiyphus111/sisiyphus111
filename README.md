@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm GuoXing 👋
 
-<!--
-**sisiyphus111/sisiyphus111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Statistics @ XX大学 (2026–2029)
 
-Here are some ideas to get you started:
+🔬 NLP · Topic Modeling · Machine Translation · Causal Inference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on knowledge-enhanced topic models, and I'm interested in bringing causal
+thinking into NLP. Currently reproducing KDNTM (IPM 2025).
+
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+![sisiyphus111's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisiyphus111&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisiyphus111&layout=compact)
+
+## 📌 Projects
+
+
+## 📫 Contact
+
+📧 yourname@xxx.com
