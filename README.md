@@ -1,11 +1,9 @@
 # Hi, I'm GuoXing 👋
 
-🎓 Master's student in Statistics @ XX大学 (2026–2029)
+🎓 Master's student in Statistics 
 
 🔬 NLP · Topic Modeling · Machine Translation · Causal Inference
 
-I work on knowledge-enhanced topic models, and I'm interested in bringing causal
-thinking into NLP. Currently reproducing KDNTM (IPM 2025).
 
 ## 🔧 Tech Stack
 
@@ -23,4 +21,4 @@ thinking into NLP. Currently reproducing KDNTM (IPM 2025).
 
 ## 📫 Contact
 
-📧 yourname@xxx.com
+📧 1823612684@qq.com
